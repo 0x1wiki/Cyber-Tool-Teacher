@@ -1,4 +1,3 @@
-main.py
 from nmap_help import show_nmap_help
 from sqlmap_help import show_sqlmap_help
 
