@@ -124,12 +124,3 @@ def show_sqlmap_help():
 
     for cmd, logic in commands:
         print(f"{cmd}\n    # {logic}\n")
-
-#Run
-cd cybersec-tools
-python3 main.py
-
-=== Cybersecurity Tools Help (by 0x1wiki) ===
-1. Nmap
-2. SQLMap
-Select tool:
