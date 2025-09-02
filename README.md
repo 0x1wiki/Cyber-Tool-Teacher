@@ -1,11 +1,12 @@
-# Cyber-Tool-Teacher by 0x1wiki
-This repository contains beginner-friendly cheat sheets with logic for common cybersecurity tools.
+# CyberSec Tools Help (by 0x1wiki)
 
-## Tools Included
-- Nmap (Port Scanning & Service Enumeration)
-- SQLMap (SQL Injection Automation)
+A beginner-friendly **cybersecurity tools cheat sheet** with logic and ready-to-use commands.  
+This project is made for learners who are starting in **penetration testing & bug bounty**.  
 
-## Usage
-```bash
-cd cybersec-tools
-python3 main.py
+---
+
+## 🚀 Features
+- Easy **menu-based interface**
+- Each tool has **all major commands** with **logic**
+- Beginner-friendly explanations
+- Ready to extend (add more tools easily)
