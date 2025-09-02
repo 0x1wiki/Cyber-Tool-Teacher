@@ -1,17 +1,3 @@
-cybersec-tools/
-│
-├── main.py              # main entry point 
-│
-├── nmap_help.py         # Nmap commands + logic
-├── sqlmap_help.py       # SQLMap commands + logic
-│
-└── README.md            # documentation (optional, GitHub)
-
-#Folder Create
-mkdir cybersec-tools
-cd cybersec-tools
-
-#File Create
 main.py
 from nmap_help import show_nmap_help
 from sqlmap_help import show_sqlmap_help
